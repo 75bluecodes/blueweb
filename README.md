@@ -1,1 +1,3 @@
 # blueweb
+
+>> web dev : django
